@@ -1,6 +1,6 @@
 # Rails API Relationships Diagnostic
 
-Place your responses inside the fenced code-blocks where indivated by comments.
+Place your responses inside the fenced code-blocks where indicated by comments.
 
 1.  Describe a reason why join tables may be valuable.
 
