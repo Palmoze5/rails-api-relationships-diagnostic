@@ -2,7 +2,7 @@
 
 Place your responses inside the fenced code-blocks where indivated by comments.
 
-1.  Describe a reason why a join tables may be valuable.
+1.  Describe a reason why join tables may be valuable.
 
   ```md
     # < Your Response Here >
