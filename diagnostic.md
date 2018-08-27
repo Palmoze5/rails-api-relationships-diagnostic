@@ -59,7 +59,7 @@ Place your responses inside the fenced code-blocks where indicated by comments.
       # Your Response Here
     ```
 
-1. What is `Dependent: Destroy` and where/why would we use it?
+1. What is `dependent: :destroy` and where/why would we use it?
 
     ```md
     <!-- Your Response Here -->
