@@ -21,19 +21,19 @@ Place your responses inside the fenced code-blocks where indicated by comments.
 1. For the above example, what needs to be added to the Model files?
 
     ```rb
-    class Profile < ActiveRecord::Base
+    class Profile < ApplicationRecord
       # Your Response Here
     end
     ```
 
     ```rb
-    class Movie < ActiveRecord::Base
+    class Movie < ApplicationRecord
       # Your Response Here
     end
     ```
 
     ```rb
-    class Favorite < ActiveRecord::Base
+    class Favorite < ApplicationRecord
       # Your Response Here
     end
     ```
