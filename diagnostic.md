@@ -9,10 +9,11 @@ Place your responses inside the fenced code-blocks where indicated by comments.
     ```
 
 1. Provide a database table structure and explain the Entity Relationship that
-  describes a many-to-many relationship for `Profiles`, `Movies` and `Favorites`
-  (Think of Netflix). A `Profile` has a `given_name`, `surname` and `email` and
-  a `Movies` have `title`, `release_date`, and `length` and `Favorites` would be
-  the join table with references to `Movies` and `Profiles`.
+describes a many-to-many relationship for `Profiles`, `Movies` and `Favorites`
+(think Netflix). The `Profiles` table would have `given_name`, `surname` and
+`email` fields, the `Movies` table would have `title`, `release_date`, and
+`length` fields, and `Favorites` would be the join table with references to
+`Movies` and `Profiles`.
 
     ```md
     <!-- Your Response Here -->
