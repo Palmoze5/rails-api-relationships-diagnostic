@@ -76,9 +76,8 @@ describes a many-to-many relationship for `Profiles`, `Movies` and `Favorites`
 7. Think of **ANY** example where you would have a one-to-many relationship as well
   as a many-to-many relationship in an application. You only need to list the
   description about the resources and how they relate to one another.
+  ```md
+  Creating a jokes API, where one user has access to CRUD his/her jokes. It would be like a personal journal/diary. This would be a One-to-Many.
 
-    ```md
-Creating a jokes API, where one user has access to CRUD his/her jokes. It would be like a personal journal/diary. This would be a One-to-Many.
-
-A many-to-many example would be a list of patients who have many doctors and many medical staff attending to them.
+  A many-to-many example would be a list of patients who have many doctors and many medical staff attending to them.
     ```
