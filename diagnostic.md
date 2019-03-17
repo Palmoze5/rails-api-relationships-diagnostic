@@ -70,7 +70,7 @@ describes a many-to-many relationship for `Profiles`, `Movies` and `Favorites`
 6. What is `dependent: :destroy` and where/why would we use it?
 
     ```md
-    You would use it when you are trying to delete the specific model (all of the parent and children objects - keys and values)>
+    You would use it when you are trying to delete the specific model (alll of the parent and children objects - keys and values)>
     ```
 
 7. Think of **ANY** example where you would have a one-to-many relationship as well
